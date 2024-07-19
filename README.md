@@ -9,4 +9,5 @@ At the first pre-processed images will be captured were 200 images are taken for
 Step1:Initializing the ESP32 camera module,conveyor belt,servo motor.
 step2:ESP32 camera captures the images placed on the coneyor belt.
 step3:Machine learing model runs inside the system and returns the signal with objects name and at what angle should servo turns.
-step4:after comparing conveyor moves towards the servo motor by this the serv motor will move to the respective angles and the objects will be succesfull detected and sorted in the respective partion.
+step4:after comparing conveyor moves towards the servo motor by this the serv motor will move to the respective angles and the objects will be succesfully placed on the servo motor with respective partions made in it.
+# software description
